@@ -1,0 +1,8 @@
+{
+    "client_email": "hos@gmail.com",
+    "date": "07.04.2024",
+    "start_time": "11:00:00",
+    "end_time": "12:00:00",
+    "gym": "Gold Gym",
+    "trainer_email": "bake@gmail.com"
+}

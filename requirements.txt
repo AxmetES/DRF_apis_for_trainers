@@ -1,0 +1,11 @@
+django==5.0.3
+environs==10.3.0
+names==0.3.0
+openpyxl==3.1.2
+pillow==10.2.0
+pip-chill==1.0.3
+psycopg2-binary==2.9.9
+pytelegrambotapi==4.16.1
+redis==5.0.1
+djangorestframework~=3.15.1
+drf-yasg==1.21.7
